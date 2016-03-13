@@ -1,0 +1,21 @@
+{
+  "name": "git-funny-stripes",
+  "version": "1.0.0",
+  "description": "Automatically generates funny stripes in contribution board on github",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cropcrop/git-funny-stripes.git"
+  },
+  "author": "Luca Dimola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cropcrop/git-funny-stripes/issues"
+  },
+  "homepage": "https://github.com/cropcrop/git-funny-stripes#readme"
+}
